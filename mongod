@@ -1,0 +1,2 @@
+mongod --bind_ip=$IP --fork --logpath=mongologs/mongo.log --dbpath=data --nojournal --rest "$@"
+
