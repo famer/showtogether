@@ -1,5 +1,5 @@
 # showtogether
-NodeJS + MongoDB + MongoFiles project aimed to enable people to show pictures simultaneously
+NodeJS + MongoDB + Mongofiles project aimed to enable people to show pictures simultaneously
 
 Project uses NodeJS along with Socket.IO to enable immidiate interactions with users.
 Files are stored in MongoFiles FS.
